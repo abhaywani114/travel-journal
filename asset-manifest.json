@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.33642bf3.css",
+    "main.js": "/travel-journal/static/js/main.bd9e3547.js",
+    "static/media/Sydney-Opera-House-Port-Jackson.jpg": "/travel-journal/static/media/Sydney-Opera-House-Port-Jackson.7583f5269ef5e0297f7a.jpg",
+    "static/media/volcanic-cone-Japan-Mount-Fuji.jpg": "/travel-journal/static/media/volcanic-cone-Japan-Mount-Fuji.abda0f78fa03dbb838f7.jpg",
+    "static/media/il-fiordo-di-geirangerfjord.jpg": "/travel-journal/static/media/il-fiordo-di-geirangerfjord.06a487695848b2f7c3dd.jpg",
+    "index.html": "/travel-journal/index.html",
+    "main.33642bf3.css.map": "/travel-journal/static/css/main.33642bf3.css.map",
+    "main.bd9e3547.js.map": "/travel-journal/static/js/main.bd9e3547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33642bf3.css",
+    "static/js/main.bd9e3547.js"
+  ]
+}
